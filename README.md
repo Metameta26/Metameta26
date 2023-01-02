@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Metaconskies 
-- 👀 I’m interested in ...learning new pentest tools and enhancing my knowledge of delveloping exploits for all types 
-- 🌱 I’m currently learning ...social engineering attacks  password attacks ssh exploits  advanced network recon  
-- 💞️ I’m looking to collaborate on ...learning kali linux tools at a high level
+- 👀 I’m interested in ...frontend UI development and web3 intregration and web3 security 
+- 🌱 I’m currently learning ...ethers js and moralis API and frontend UI for web3 stores and DEFI apps 
+- 💞️ I’m looking to collaborate on ...web3 api studies and UI development for Web3
 - 📫 How to reach me ...metaconskies@gmail.com
 
 <!---
