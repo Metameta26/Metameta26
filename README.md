@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Metaconskies 
+- 👋 Hi, I’m @Metavibez
 - 👀 I’m interested in ...frontend UI development and web3 intregration and web3 security 
 - 🌱 I’m currently learning ...ethers js and moralis API and frontend UI for web3 stores and DEFI apps 
 - 💞️ I’m looking to collaborate on ...web3 api studies and UI development for Web3
